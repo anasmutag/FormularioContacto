@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="app_padding">20dp</dimen>
+    <dimen name="top_et">10dp</dimen>
+    <dimen name="title_datos">25sp</dimen>
+    <dimen name="size_datos">18sp</dimen>
+    <dimen name="padding_boton_editar">20dp</dimen>
+    <dimen name="top_boton_editar">60dp</dimen>
+</resources>
